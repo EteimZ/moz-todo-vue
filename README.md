@@ -1,6 +1,6 @@
 # moz-todo-vue
 
-Chapter four of the vue todo list app from the [MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+Chapter five of the vue todo list app from the [MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 
 ## Project setup
 ```
